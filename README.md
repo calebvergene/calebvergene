@@ -1,6 +1,6 @@
 ## Hi there, I'm Caleb! 👋
 
-- 🌲 Hey! I'm Caleb, a CS student at UC Irvine passionate about software development, entrepreneurship, and UI/UX design.
+- 🌲 I'm a CS student at UC Irvine passionate about software development, entrepreneurship, and UI/UX design.
 - 🚀 **Explore** my repositories to see what I have coded! 
 - 📫 Let's get in touch:
 

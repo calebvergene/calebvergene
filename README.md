@@ -1,9 +1,7 @@
-## Hi there, I'm Caleb! 👋
+## Hi there 👋
 
-- 🌲 I'm a CS student at UC Irvine passionate about software development, entrepreneurship, and machine learning.
-- 🚀 **Explore** my repositories to see what I have coded! 
-- 📫 Let's get in touch:
+I'm Caleb Vergene, welcome to my github! I'm a sophomore at UCI studying computer science, passionate about web3 development, low level system design, full stack development, large language models (RAG), and statistics, machine learning, and entrepreneurship!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/calebvergene/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:calebverg@gmail.com)
+🌱 I’m currently building ErgoEye, an AI model/software that automates REBA and NIOSH tests and enhances workplace safety. 
 
+📫 How to reach me: caleb@ergoeye.io or calebvergene.com!

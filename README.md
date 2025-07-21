@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hey 👋
 
 I'm Caleb, a sophomore at UCI studying computer science.
+
+🌐 [calebvergene.com](calebvergene.com )
 
 💼 Incoming SDE Intern @ AVEVA
 
 🌱 Software Engineer Research Assistant @ DapLab 
 
-📫 How to reach me: calebverg[at]gmail.com or calebvergene.com!
+📫 reach me @ calebverg[at]gmail.com
  

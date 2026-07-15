@@ -9,8 +9,8 @@ I'm also working on <a href="https://kalea.fyi">Kalea</a>, a UGC attribution sys
 I've also previously:
 - Led the research team building <a href="https://wcap.ai">wcap.ai</a>, a tool to measure soft-skill development in elementary school students.
 - Interned as a Software Engineer at AVEVA, working on their Cloud Infrastructure team.
-- Solo built <a href="https://uci4yearplan">uci4yearplan.com</a>!
-- Grew my TikTok account to 160k followers, and made <a href="https://calebvergene.com](https://www.linkedin.com/in/calebvergene/details/experience/1713917520587/single-media-viewer?profileId=ACoAAEiYRg4BimEINdRBsf5V1kaWg-EhbP-xopA">460+ UGC ads</a> for 170 different companies.
+- Solo built <a href="https://uci4yearplan.com">uci4yearplan.com</a>!
+- Grew my TikTok account to 160k followers, and made <a href="https://www.linkedin.com/in/calebvergene/details/experience/1713917520587/single-media-viewer?profileId=ACoAAEiYRg4BimEINdRBsf5V1kaWg-EhbP-xopA">460+ UGC ads</a> for 170 different companies.
 
 📫 reach me @ <a href="https://calebvergene.com">calebvergene.com</a>
  

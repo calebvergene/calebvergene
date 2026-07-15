@@ -4,7 +4,7 @@
 
 I'm currently a interning as a Software Engineer at <img src="https://cdn.simpleicons.org/asana" width="14"/> **Asana** on their AI Studio Rules team.
 
-I'm also working on <a href="https://kalea.fyi">Kalea</a>, a UGC attribution system for LinkedIn. I've worked with customers such as Adobe, CrowdReply ($23M Series A), YC Startups, etc.
+I'm also building <a href="https://kalea.fyi">Kalea</a>, a UGC attribution system for LinkedIn. I've worked with customers such as Adobe, CrowdReply ($23M Series A), YC Startups, etc.
 
 I've also previously:
 - Led the research team building <a href="https://wcap.ai">wcap.ai</a>, a tool to measure soft-skill development in elementary school students.

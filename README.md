@@ -13,3 +13,7 @@ I've also previously (in chronological order):
 
 📫 reach me @ <a href="https://calebvergene.com">calebvergene.com</a>
  
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+</p>

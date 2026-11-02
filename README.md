@@ -11,7 +11,6 @@ I've also previously (in chronological order):
 - Solo built <a href="https://uci4yearplan.com">uci4yearplan.com</a>!
 - Grew my TikTok account to 160k followers, and made <a href="https://www.linkedin.com/in/calebvergene/details/experience/1713917520587/single-media-viewer?profileId=ACoAAEiYRg4BimEINdRBsf5V1kaWg-EhbP-xopA">460+ UGC ads</a> for 170 different companies.
 
-📫 reach me @ <a href="https://calebvergene.com">calebvergene.com</a>
  
 
 <p align="center">

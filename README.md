@@ -17,3 +17,5 @@ I've also previously (in chronological order):
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
 </p>
+
+📫 reach me @ <a href="https://calebvergene.com">calebvergene.com</a>

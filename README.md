@@ -1,4 +1,4 @@
-Hey 👋 I'm Caleb
+Hey 👋 I'm Caleb <img src="https://komarev.com/ghpvc/?username=calebvergene&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 I'm currently:
 - Interning at <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/spacex/white"><img src="https://cdn.simpleicons.org/spacex/black" height="16" alt="SpaceX" /></picture>**SpaceX** on their AI Vehicles team (winter)
@@ -18,7 +18,3 @@ I've also previously (in chronological order):
 </p>
 
 📫 reach me @ <a href="https://calebvergene.com">calebvergene.com</a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=calebvergene&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>

@@ -5,7 +5,7 @@ I'm currently:
 - An early engineer for <img src="https://api.iconify.design/logos/adobe-icon.svg" height="16" alt="Adobe" />**[bridgeway.adobe.com](https://bridgeway.adobe.com/)**, an autonomous AI marketing agent for startups! I'm building a lot of agentic GTM / UGC features from scratch.
 
 I've also previously (in chronological order):
-- Founded <img src="https://www.google.com/s2/favicons?domain=kalea.fyi&sz=64" height="16" alt="Kalea" /><a href="https://kalea.fyi">kalea.fyi</a>, a UGC attribution system for LinkedIn. I've worked with customers such as Adobe, CrowdReply ($23M Series A), YC Startups, etc.
+- Founded <img src="https://www.google.com/s2/favicons?domain=kalea.fyi&sz=64" height="16" alt="Kalea" /><a href="https://kalea.fyi">kalea.fyi</a>, a UGC attribution system for LinkedIn. I've worked with customers such as Adobe, Runway, CrowdReply, YC Startups, etc.
 - Interned at <img src="https://cdn.simpleicons.org/asana" width="14"/> **Asana** on their AI Studio Workflows team.
 - Led the research team building <a href="https://wcap.ai">wcap.ai</a>, a tool to measure soft-skill development in elementary school students.
 - Solo built <a href="https://uci4yearplan.com">uci4yearplan.com</a>!
